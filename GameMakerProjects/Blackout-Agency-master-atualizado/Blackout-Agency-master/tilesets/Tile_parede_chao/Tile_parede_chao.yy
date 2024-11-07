@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"Tile_parede_chao",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"Tile_parede_chao",
+  "out_columns":51,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile set",
+    "path":"folders/Tile set.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_paredes",
+    "path":"sprites/spr_paredes/spr_paredes.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":4,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":4,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":2592,
+}
